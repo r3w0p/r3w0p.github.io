@@ -2,6 +2,6 @@
 layout: default
 ---
 
-[Test post](./posts/post1.html)
+[Test Page](./pages/page1.html)
 
 
