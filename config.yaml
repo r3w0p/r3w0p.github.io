@@ -1,0 +1,10 @@
+baseURL: https://r3w0p.github.io/
+languageCode: en-gb
+title: r3w0p
+theme: book
+publishDir: docs
+
+params:
+  BookMenuBundle: /menu
+  BookDateFormat: "2 January 2006"
+  BookSearch: true
