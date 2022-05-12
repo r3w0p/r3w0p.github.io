@@ -13,7 +13,7 @@ type: docs
 
 🧸 I remain active in research projects and software development in my spare time. I am particularly interested in the theory and praxis of the Web of Things and related standards and protocols.
 
-🧶 I have a variety of hobbies: playing guitar, baking, crocheting, travelling, to name a few.
+🧶 I have a variety of hobbies: baking, crocheting, numismatics, beer brewing, among others.
 
 ## Profiles
 
