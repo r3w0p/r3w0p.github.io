@@ -5,12 +5,17 @@ type: docs
 
 # 😸 Cat Hats 😸
 
-In 2021, I started to crochet hats for cats with the ambition to make the cats of the world look as dashing
-as possible.
-I have only made a few so far but I am eager to send more hats worldwide 🌍.
-Below are the cats that have been subjected to my creations so far.
+The hall of fame for only the fanciest of cats.
+
+I have only made a few hats so far; however, I am eager to send more worldwide 🎩🌍
 
 {{< columns >}}
+
+![Sami](/static/projects/cat-hats/4_sami_bulgaria_2022.jpg)
+**Sami**\
+_Bulgaria, 2022_
+
+<--->
 
 ![Queso](/static/projects/cat-hats/3_queso_mexico_2021.jpg)
 **Queso**\
