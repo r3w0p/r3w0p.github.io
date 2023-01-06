@@ -2,8 +2,7 @@
 
 **Creator**: r3w0p\
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)\
-**Source**: [r3w0p.github.io](https://r3w0p.github.io/)\
-**Last updated**: 2 May 2022
+**Source**: [r3w0p.github.io](https://r3w0p.github.io/)
 
 ### Context
 
@@ -23,4 +22,4 @@ A set of `JPG` images:
 
 ### Acknowledgements
 
-The dataset was collated using images provided by the recipients of the cat hats that I made for their furry friends.
+The dataset was collated using images provided by the recipients of the cat hats.

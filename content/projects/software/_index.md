@@ -8,7 +8,7 @@ type: docs
 ## Research
 
 **BoboCEP**\
-A fault-tolerant complex event processing engine designed for edge computing in IoT systems.\
+A fault-tolerant Complex Event Processing engine designed for edge computing in Internet of Things systems.\
 _In Development_\
 [Repo](https://github.com/r3w0p/bobocep) | [Info](https://r3w0p.github.io/bobocep/) | [Paper](https://doi.org/10.1109/BigDataService49289.2020.00024)
 
@@ -19,6 +19,7 @@ A predictive model to identify four species of bird from their vocalisations. It
 ## Tools
 
 **Software Quality Checklist**\
+A Markdown checklist for documenting software quality.\
 _In Development_\
 [Repo](https://github.com/r3w0p/software-quality-checklist)
 
@@ -31,6 +32,7 @@ A thesis template for the School of Computing and Communications at Lancaster Un
 ## Just for Fun
 
 **Caravan**\
+A CLI version of the Caravan card game from Fallout: New Vegas.\
 _In Development_
 
 **CE-GEN**\
