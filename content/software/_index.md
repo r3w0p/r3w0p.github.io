@@ -33,7 +33,8 @@ A thesis template for the School of Computing and Communications at Lancaster Un
 
 **Caravan**\
 A CLI version of the Caravan card game from Fallout: New Vegas.\
-_In Development_
+_In Development_\
+[Repo](https://github.com/r3w0p/caravan)
 
 **CE-GEN**\
 A program for generating surreal videos in a popular meme format.\

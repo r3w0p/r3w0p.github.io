@@ -6,6 +6,9 @@ type: docs
 {{< columns >}}
 
 ![r3w0p](/static/5.jpg)
+![r3w0p](/static/3.jpg)
+![r3w0p](/static/2.jpg)
+![r3w0p](/static/1.jpg)
 
 <--->
 
