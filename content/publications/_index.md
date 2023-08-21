@@ -7,7 +7,8 @@ type: docs
 
 {{< hint info >}}
 ORCID: [0000-0001-5348-7068](https://orcid.org/0000-0001-5348-7068) \
-Google Scholar: [8U804UEAAAAJ&hl](https://scholar.google.co.uk/citations?user=8U804UEAAAAJ&hl)
+Google Scholar: [8U804UEAAAAJ&hl](https://scholar.google.co.uk/citations?user=8U804UEAAAAJ&hl) \
+Web of Science: [JAN-9824-2023](https://www.webofscience.com/wos/author/record/JAN-9824-2023)
 {{< /hint >}}
 
 ## 2020

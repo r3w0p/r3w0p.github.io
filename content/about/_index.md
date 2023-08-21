@@ -7,9 +7,11 @@ type: docs
 
 ## Personal Summary
 
-🔬 I am a software engineer and data science researcher using Machine Learning with fluorescence spectroscopy for novel approaches to substance detection.
+🔬 I am a researcher and software engineer currently working in academia on novel substance detection using fluorescence spectroscopy and machine learning.
 
-🧸 I am interested in the theory and praxis of the Web of Things and its related standards and protocols, as well as the use of Complex Event Processing for live data stream processing.
+🌐 I am interested in the theory and praxis of the Semantic Web, Internet of Things, Web of Things, and its related standards and protocols.
+
+🐻 I am also interested in data science and data analytics, specifically with complex event processing and edge computing.
 
 🧶 I have a variety of other hobbies: baking, crocheting, numismatics, beer brewing, among others.
 
