@@ -6,7 +6,7 @@ type: docs
 # Software
 
 Below are some of my public software projects.
-They are typically developed in my spare time, with most of my software output being work related and, therefore, close sourced.
+They are typically developed in my spare time, with most of my software output being work related and, therefore, they are closed source.
 
 ## Research
 

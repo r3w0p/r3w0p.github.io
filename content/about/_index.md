@@ -17,8 +17,8 @@ type: docs
 
 ## Profiles
 
-You can find me here:
+I do not use any conventional social media platforms, but you can find me here instead:
 
 - [GitHub](https://github.com/r3w0p)
-- [Kaggle](https://www.kaggle.com/r3w0p4)
 - [Hackster](https://www.hackster.io/r3w0p)
+- [Kaggle](https://www.kaggle.com/r3w0p4)
