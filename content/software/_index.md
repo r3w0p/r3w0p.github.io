@@ -8,6 +8,7 @@ type: docs
 Below are some of my public software projects.
 They are typically developed in my spare time, with most of my software output being work related and, therefore, they are closed source.
 
+
 ## Research
 
 **BoboCEP**\
@@ -19,18 +20,20 @@ A predictive model to identify four species of bird from their vocalisations. It
 _Archived_\
 [Repo](https://github.com/r3w0p/BirdCNN) | [Info](https://www.hackster.io/teamscc/birdcnn-identifying-birds-using-deep-learning-9dd03f)
 
+
 ## Tools
 
 **Software Quality Checklist**\
 A Markdown checklist for documenting software quality.\
-_In Development_\
 [Repo](https://github.com/r3w0p/software-quality-checklist)
+
 
 ## Education
 
 **Lancs SCC Thesis Format**\
 A thesis template for the School of Computing and Communications at Lancaster University.\
 [Repo](https://github.com/r3w0p/lancs-scc-thesis-template)
+
 
 ## Just for Fun
 
