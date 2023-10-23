@@ -13,7 +13,7 @@ They are typically developed in my spare time, with most of my software output b
 
 **BoboCEP**\
 A fault-tolerant Complex Event Processing engine designed for edge computing in Internet of Things systems. I have worked on this project since my PhD and continue to (slowly) work on it when I can so that it may be adapted as a Web of Things tool.\
-[Repo](https://github.com/r3w0p/bobocep) | [Info](https://r3w0p.github.io/bobocep/) | [Paper](https://doi.org/10.1109/BigDataService49289.2020.00024)
+[Repo](https://github.com/r3w0p/bobocep) | [Info](https://bobocep.readthedocs.io)
 
 **BirdCNN**\
 A predictive model to identify four species of bird from their vocalisations. It is my contribution to a Hackster competition.\
