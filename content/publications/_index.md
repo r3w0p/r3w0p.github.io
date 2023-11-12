@@ -11,6 +11,12 @@ type: docs
 > Web of Science: [JAN-9824-2023](https://www.webofscience.com/wos/author/record/JAN-9824-2023)
 
 
+## 2023
+
+**X International Conference on Novel Psychoactive Substances** \
+Conference Talk (Abu Dhabi, UAE)
+
+
 ## 2020
 
 **BoboCEP: Distributed Complex Event Processing for Resilient Fault-Tolerance Support in IoT** \
