@@ -13,8 +13,8 @@ type: docs
 
 ## 2023
 
-**X International Conference on Novel Psychoactive Substances** \
-_Synthetic Drug Warning Device for the Detection of Benzodiazepines_ \
+**Synthetic Drug Warning Device for the Detection of Benzodiazepines** \
+_X International Conference on Novel Psychoactive Substances_ \
 Conference Talk (Abu Dhabi, UAE)
 
 
