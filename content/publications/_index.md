@@ -13,6 +13,11 @@ type: docs
 
 ## 2023
 
+**BoboCEP: a Fault-Tolerant Complex Event Processing Engine for Edge Computing in Internet of Things** \
+_A. Power_ \
+Journal Paper \
+[DOI:10.21105/joss.05858](https://doi.org/10.21105/joss.05858)
+
 **Synthetic Drug Warning Device for the Detection of Benzodiazepines** \
 _X International Conference on Novel Psychoactive Substances_ \
 Conference Talk (Abu Dhabi, UAE)
