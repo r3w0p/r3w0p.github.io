@@ -20,7 +20,8 @@ Journal Paper \
 
 **Synthetic Drug Warning Device for the Detection of Benzodiazepines** \
 _X International Conference on Novel Psychoactive Substances_ \
-Conference Talk (Abu Dhabi, UAE)
+Conference Talk (Abu Dhabi, UAE) \
+[Website](https://www.novelpsychoactivesubstances.org)
 
 
 ## 2020
