@@ -13,7 +13,7 @@ Images of cats wearing crocheted hats.
 A set of `JPG` images:
 
 - The **name** of each file has the following structure:
-  - `<NUMBER>_<CAT-NAME>_<COUNTRY>_<YEAR>.jpg`
+  - `<UNIQUE-NUMBER>_<CAT-NAME>_<COUNTRY>_<YEAR>.jpg`
   - Each of these attributes is separated by a `_`.
   - If an attribute has multiple words, then each word is separated by a `-`.
 
