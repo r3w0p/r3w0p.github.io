@@ -13,7 +13,7 @@ I have only made a few hats so far; however, I am eager to send more worldwide �
 ![Marty](/static/cat-hats/6_marty_czech-republic_2024.jpg)
 <--->
 ## 6. Marty
-Czech Republic\
+🇨🇿 Czech Republic\
 2024
 {{< /columns >}}
 
@@ -22,7 +22,7 @@ Czech Republic\
 ![Meg](/static/cat-hats/5_meg_czech-republic_2024.jpg)
 <--->
 ## 5. Meg
-Czech Republic\
+🇨🇿 Czech Republic\
 2024
 {{< /columns >}}
 
@@ -31,7 +31,7 @@ Czech Republic\
 ![Sami](/static/cat-hats/4_sami_bulgaria_2022.jpg)
 <--->
 ## 4. Sami
-Bulgaria\
+🇧🇬 Bulgaria\
 2022
 {{< /columns >}}
 
@@ -40,7 +40,7 @@ Bulgaria\
 ![Queso](/static/cat-hats/3_queso_mexico_2021.jpg)
 <--->
 ## 3. Queso
-Mexico\
+🇲🇽 Mexico\
 2021
 {{< /columns >}}
 
@@ -49,7 +49,7 @@ Mexico\
 ![Don Corleone](/static/cat-hats/2_don-corleone_russia_2021.jpg)
 <--->
 ## 2. Don Corleone
-Russia\
+🇷🇺 Russia\
 2021
 {{< /columns >}}
 
@@ -58,6 +58,6 @@ Russia\
 ![Luna](/static/cat-hats/1_luna_england_2021.jpg)
 <--->
 ## 1. Luna
-England\
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\
 2021
 {{< /columns >}}
