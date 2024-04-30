@@ -5,6 +5,14 @@ theme: book
 publishDir: docs
 
 params:
-  BookMenuBundle: /menu
   BookDateFormat: "2 January 2006"
+  BookMenuBundle: /menu
   BookSearch: true
+  BookTheme: "auto"
+  BookToC: true
+
+languages:
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 1
