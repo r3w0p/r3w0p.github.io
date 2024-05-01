@@ -2,22 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://r3w0p.github.io/about/</loc>
+    <loc>https://r3w0p.github.io/tags/3d-builder/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://r3w0p.github.io/categories/3d-printing/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://r3w0p.github.io/tags/blender/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://r3w0p.github.io/posts/</loc>
-  </url><url>
-    <loc>https://r3w0p.github.io/cat-hats/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://r3w0p.github.io/categories/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://r3w0p.github.io/tags/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://r3w0p.github.io/tags/ultimaker/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://r3w0p.github.io/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://r3w0p.github.io/posts/ybc-7289/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://r3w0p.github.io/about/</loc>
+  </url><url>
+    <loc>https://r3w0p.github.io/cat-hats/</loc>
   </url><url>
     <loc>https://r3w0p.github.io/contact/</loc>
   </url><url>
     <loc>https://r3w0p.github.io/publications/</loc>
   </url><url>
     <loc>https://r3w0p.github.io/software/</loc>
-  </url><url>
-    <loc>https://r3w0p.github.io/tags/</loc>
-  </url><url>
-    <loc>https://r3w0p.github.io/</loc>
   </url>
 </urlset>

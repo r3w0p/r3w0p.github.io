@@ -4,11 +4,11 @@
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)\
 **Source**: [r3w0p.github.io](https://r3w0p.github.io/)
 
-### Context
+## Context
 
 Images of cats wearing crocheted hats.
 
-### Content
+## Content
 
 A set of `JPG` images:
 
@@ -20,6 +20,6 @@ A set of `JPG` images:
 - The **width** of each file is `500px`.
 - The **height** of each file is `750px`.
 
-### Acknowledgements
+## Acknowledgements
 
 The dataset was collated using images provided by the recipients of the cat hats.

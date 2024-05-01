@@ -5,6 +5,34 @@
     <link>https://r3w0p.github.io/tags/</link>
     <description>Recent content in Tags on r3w0p</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://r3w0p.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://r3w0p.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Builder</title>
+      <link>https://r3w0p.github.io/tags/3d-builder/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://r3w0p.github.io/tags/3d-builder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender</title>
+      <link>https://r3w0p.github.io/tags/blender/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://r3w0p.github.io/tags/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultimaker</title>
+      <link>https://r3w0p.github.io/tags/ultimaker/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://r3w0p.github.io/tags/ultimaker/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
