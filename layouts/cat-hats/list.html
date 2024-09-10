@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+  <article class="markdown" style="text-align: center;">
+    <h1>😸 Cat Hats 😸</h1>
+    <p>
+      The hall of fame for the fanciest cats.<br>
+      I have only made a few hats so far. However, I am keen to send more worldwide 🎩🌍
+    </p>
+    <br>
+  </article>
+
+  {{ range (.Paginator.Pages.ByParam "number").Reverse }}
+    <article class="markdown" style="text-align: center;">
+      <img src={{.Params.image}} alt={{.Params.name}}>
+      <p style="margin: 0; padding: 0;">
+        <span style="font-size: 1.5em;">{{.Params.name}}</span>
+        <br>
+        {{.Params.flag}} {{.Params.country}}
+        <br>
+        {{.Params.year}}
+      </p>
+      <br>
+    </article>
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+
+{{ end }}
