@@ -7,7 +7,7 @@ type: docs
 
 ## Personal Summary
 
-🔬 I am a researcher and software engineer currently working in academia on novel approaches to substance detection via fluorescence spectroscopy and deep learning.
+🔬 I am a research software engineer working in academia on human augmentation and cyber-physical systems.
 
 🌐 I am interested in the theory and praxis of the Semantic Web, Internet of Things, Web of Things, and its related standards and protocols.
 
