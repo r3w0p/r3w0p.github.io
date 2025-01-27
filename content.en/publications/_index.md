@@ -12,6 +12,15 @@ type: docs
 
 
 ## 2024
+**A Device for the Rapid Detection of Benzodiazepines and Synthetic Cannabinoids via Fluorescence Spectroscopy and Machine Learning** \
+_A. Power et al._ \
+[DOI:10.1016/j.etdah.2023.100110](https://doi.org/10.1016/j.etdah.2023.100110)
+
+**Detection of synthetic cannabinoids in samples of oral fluid collected from community settings using fluorescence spectroscopy and machine learning: a pilot study** \
+_S. Craft et al._ \
+Thesis Chapter \
+[Website](https://researchportal.bath.ac.uk/en/studentTheses/clinical-and-epidemiological-features-of-synthetic-cannabinoids-a)
+
 **A field-portable technology for illicit drug discrimination via deep learning of hybridized reflectance/fluorescence spectro-scopic fingerprints** \
 _A. Power et al._ \
 [Preprint](https://doi.org/10.26434/chemrxiv-2024-f5tq3-v2)
