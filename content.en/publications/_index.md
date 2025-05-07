@@ -13,6 +13,10 @@ type: docs
 
 ## 2025
 
+**Field-Portable Technology for Illicit Drug Discrimination via Deep Learning of Hybridized Reflectance/Fluorescence Spectroscopic Fingerprints** \
+_A. Power et al._ \
+[Paper](https://doi.org/10.1021/acs.analchem.4c05247) | [Preprint](https://doi.org/10.26434/chemrxiv-2024-f5tq3-v2)
+
 **Field-Portable Device for Detection of Controlled and Psychoactive Substances from e-Cigarettes** \
 _M. Gardner et al._ \
 [Paper](https://doi.org/10.1021/acsomega.4c08614) | [Preprint](https://doi.org/10.26434/chemrxiv-2024-ns335)
@@ -29,17 +33,13 @@ _S. Craft et al._ \
 Thesis Chapter \
 [Website](https://researchportal.bath.ac.uk/en/studentTheses/clinical-and-epidemiological-features-of-synthetic-cannabinoids-a)
 
-**A field-portable technology for illicit drug discrimination via deep learning of hybridized reflectance/fluorescence spectro-scopic fingerprints** \
-_A. Power et al._ \
-[Preprint](https://doi.org/10.26434/chemrxiv-2024-f5tq3-v2)
-
 **Synthetic cannabinoids consumed via e-cigarettes in English schools** \
 _G. E. Cozier et al._ \
 [Preprint](https://doi.org/10.1101/2024.08.12.24311617)
 
 **Hybridised Fluorescence Reflectance Fingerprinting** \
 Patent (Pending) \
-UK IPO Application No. GB2409897.2
+UK IPO: GB2409897.2
 
 
 ## 2023
