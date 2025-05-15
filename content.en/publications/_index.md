@@ -13,6 +13,10 @@ type: docs
 
 ## 2025
 
+**The changing landscape of opioid use; strength, adulteration and implications for harm reduction** \
+_G. Cozier et al._ \
+[Preprint](https://doi.org/10.26434/chemrxiv-2025-ltl1w)
+
 **Field-Portable Technology for Illicit Drug Discrimination via Deep Learning of Hybridized Reflectance/Fluorescence Spectroscopic Fingerprints** \
 _A. Power et al._ \
 [Paper](https://doi.org/10.1021/acs.analchem.4c05247) | [Preprint](https://doi.org/10.26434/chemrxiv-2024-f5tq3-v2)
