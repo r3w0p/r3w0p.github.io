@@ -13,6 +13,11 @@ type: docs
 
 ## 2025
 
+**2025 Analytical Science Horizon Prize: Sir George Stokes Prize** \
+Harm Reduction \
+_The Royal Society of Chemistry_ \
+[Website](https://www.rsc.org/standards-and-recognition/prizes/winners/harm-reduction)
+
 **The changing landscape of opioid use; strength, adulteration and implications for harm reduction** \
 _G. Cozier et al._ \
 [Preprint](https://doi.org/10.26434/chemrxiv-2025-ltl1w)
