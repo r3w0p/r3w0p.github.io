@@ -13,6 +13,11 @@ type: docs
 
 ## 2025
 
+**Synthetic cannabinoids in e-cigarettes seized from English schools** \
+_G. E. Cozier et al._ \
+Journal Paper \
+[Paper](http://doi.org/10.1111/add.70110) | [Preprint](https://doi.org/10.1101/2024.08.12.24311617)
+
 **2025 Analytical Science Horizon Prize: Sir George Stokes Prize** \
 Harm Reduction \
 _The Royal Society of Chemistry_ \
@@ -24,10 +29,12 @@ _G. Cozier et al._ \
 
 **Field-Portable Technology for Illicit Drug Discrimination via Deep Learning of Hybridized Reflectance/Fluorescence Spectroscopic Fingerprints** \
 _A. Power et al._ \
+Journal Paper \
 [Paper](https://doi.org/10.1021/acs.analchem.4c05247) | [Preprint](https://doi.org/10.26434/chemrxiv-2024-f5tq3-v2)
 
 **Field-Portable Device for Detection of Controlled and Psychoactive Substances from e-Cigarettes** \
 _M. Gardner et al._ \
+Journal Paper \
 [Paper](https://doi.org/10.1021/acsomega.4c08614) | [Preprint](https://doi.org/10.26434/chemrxiv-2024-ns335)
 
 
@@ -41,10 +48,6 @@ _A. Power et al._ \
 _S. Craft et al._ \
 Thesis Chapter \
 [Website](https://researchportal.bath.ac.uk/en/studentTheses/clinical-and-epidemiological-features-of-synthetic-cannabinoids-a)
-
-**Synthetic cannabinoids consumed via e-cigarettes in English schools** \
-_G. E. Cozier et al._ \
-[Preprint](https://doi.org/10.1101/2024.08.12.24311617)
 
 **Hybridised Fluorescence Reflectance Fingerprinting** \
 Patent (Pending) \
